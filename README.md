@@ -55,7 +55,7 @@ The goal is to predict the number of e-payment transactions for 2025 by sector a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/epayment-forecasting-bahrain.git
+   git clone https://github.com/ForceOfAlgo/epayment-forecasting-bahrain.git
    cd epayment-forecasting-bahrain
 
 pip install -r requirements.txt
